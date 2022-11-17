@@ -1,0 +1,10 @@
+.todotitletext{
+
+    max-width: 30%;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    margin-top: 10%;
+    border-bottom: 1px solid #c5c5c5;
+    
+}
